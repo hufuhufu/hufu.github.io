@@ -1,2 +1,2 @@
-# hufu.github.io
+# hufuhufu.github.io
 My personal website
